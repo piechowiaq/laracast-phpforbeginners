@@ -8,7 +8,7 @@
                 <a href="/notes" class="text-blue-500 underline">go back...</a>
             </p>
 
-            <p><?= $note['body'] ?> hello</p>
+            <p><?= $note['body'] ?></p>
         </div>
     </main>
 
